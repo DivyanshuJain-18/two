@@ -14,4 +14,4 @@ c=a+b;
 printf("%d", c);
 
 getch();
-}[A[A[A[A[A[A[A[A[A[A[A[A[A[A[B[A[A[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B
+}
